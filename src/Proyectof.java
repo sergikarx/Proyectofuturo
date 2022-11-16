@@ -3,7 +3,7 @@ public class Proyectof {
         System.out.println("Estudiante " + args[0] + " : ");
         System.out.println(veredicto("6","0"));
 
-        //
+        //Sergio Aroca Martínez
     }
 
     static public String veredicto (String valor1, String valor2) {
